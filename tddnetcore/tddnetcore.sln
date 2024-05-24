@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tddnetcore", "tddnetcore.csproj", "{4FEC9B5E-5FB5-4088-9C80-633EA32A3FD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testtddnetcore", "..\Testtddnetcore\Testtddnetcore.csproj", "{B9A7E284-BA36-42C7-9E85-5CA548E102EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FEC9B5E-5FB5-4088-9C80-633EA32A3FD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FEC9B5E-5FB5-4088-9C80-633EA32A3FD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FEC9B5E-5FB5-4088-9C80-633EA32A3FD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FEC9B5E-5FB5-4088-9C80-633EA32A3FD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9A7E284-BA36-42C7-9E85-5CA548E102EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A7E284-BA36-42C7-9E85-5CA548E102EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A7E284-BA36-42C7-9E85-5CA548E102EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A7E284-BA36-42C7-9E85-5CA548E102EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F92A3C06-EE9B-49F8-8114-61E6B11DEAF6}
+	EndGlobalSection
+EndGlobal
